@@ -1,0 +1,17 @@
+C:\Users\johnm\OneDrive\Coding\Ventures\DepotDeck.Infrastructure\obj\Debug\net6.0\DepotDeck.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\johnm\OneDrive\Coding\Ventures\DepotDeck.Infrastructure\obj\Debug\net6.0\DepotDeck.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnm\OneDrive\Coding\Ventures\DepotDeck.Infrastructure\obj\Debug\net6.0\DepotDeck.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\johnm\OneDrive\Coding\Ventures\DepotDeck.Infrastructure\obj\Debug\net6.0\DepotDeck.Infrastructure.AssemblyInfo.cs
+C:\Users\johnm\OneDrive\Coding\Ventures\DepotDeck.Infrastructure\obj\Debug\net6.0\DepotDeck.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\johnm\OneDrive\Coding\Ventures\DepotDeck.Infrastructure\bin\Debug\net6.0\DepotDeck.Infrastructure.deps.json
+C:\Users\johnm\OneDrive\Coding\Ventures\DepotDeck.Infrastructure\bin\Debug\net6.0\DepotDeck.Infrastructure.runtimeconfig.json
+C:\Users\johnm\OneDrive\Coding\Ventures\DepotDeck.Infrastructure\bin\Debug\net6.0\DepotDeck.Infrastructure.dll
+C:\Users\johnm\OneDrive\Coding\Ventures\DepotDeck.Infrastructure\bin\Debug\net6.0\DepotDeck.Infrastructure.pdb
+C:\Users\johnm\OneDrive\Coding\Ventures\DepotDeck.Infrastructure\bin\Debug\net6.0\DepotDeck.Core.dll
+C:\Users\johnm\OneDrive\Coding\Ventures\DepotDeck.Infrastructure\bin\Debug\net6.0\DepotDeck.Core.pdb
+C:\Users\johnm\OneDrive\Coding\Ventures\DepotDeck.Infrastructure\obj\Debug\net6.0\DepotDeck.Infrastructure.csproj.CopyComplete
+C:\Users\johnm\OneDrive\Coding\Ventures\DepotDeck.Infrastructure\obj\Debug\net6.0\DepotDeck.Infrastructure.dll
+C:\Users\johnm\OneDrive\Coding\Ventures\DepotDeck.Infrastructure\obj\Debug\net6.0\refint\DepotDeck.Infrastructure.dll
+C:\Users\johnm\OneDrive\Coding\Ventures\DepotDeck.Infrastructure\obj\Debug\net6.0\DepotDeck.Infrastructure.pdb
+C:\Users\johnm\OneDrive\Coding\Ventures\DepotDeck.Infrastructure\obj\Debug\net6.0\DepotDeck.Infrastructure.genruntimeconfig.cache
+C:\Users\johnm\OneDrive\Coding\Ventures\DepotDeck.Infrastructure\obj\Debug\net6.0\ref\DepotDeck.Infrastructure.dll

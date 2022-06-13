@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "AVxQJaU6MLg+lTvDjNVqKtyVfnRfitnjuX+UzSEB6lvq/XfXiCPirdvkdWut01tM61dMbb03obXW9WCyyQnSfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\johnm\\OneDrive\\Coding\\Ventures\\DepotDeck\\DepotDeck.Core\\DepotDeck.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\johnm\\.nuget\\packages\\autofac\\6.4.0\\autofac.6.4.0.nupkg.sha512",
+    "C:\\Users\\johnm\\.nuget\\packages\\autofac.extensions.dependencyinjection\\8.0.0\\autofac.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\johnm\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\johnm\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

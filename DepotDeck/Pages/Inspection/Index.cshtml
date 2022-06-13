@@ -1,0 +1,60 @@
+﻿@page
+@model DepotDeck.Pages.Inspection.IndexModel
+@using DepotDeck.Models;
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+<h1>Inspection List </h1>
+<form method="post" class="card p-3">
+    <div class="row">
+        <div asp-validation-summary="All"></div>
+    </div>
+    <div class="form-group mb-0 align-middle">
+        <label asp-for="NewInspection.Registration">Registration</label>
+        <input type="text" asp-for="NewInspection.Registration" class="mr-5">
+        <label asp-for="NewInspection.Make">Make</label>
+        <input type="text" asp-for="NewInspection.Make" class="mr-5">
+        <label asp-for="NewInspection.Model">Model</label>
+        <input type="text" asp-for="NewInspection.Model" class="mr-5">
+        <button class="btn btn-primary">Add</button>
+    </div>
+</form>
+<table class="table mt-5">
+    <thead>
+        <tr>
+            <th scope="col">Registration</th>
+            <th scope="col">Make</th>
+            <th scope="col">Model</th>
+            <th scope="col">Edit</th>
+            <th scope="col">Delete</th>
+        </tr>
+    </thead>
+    @foreach (var inspection in Model.inspections)
+    {
+        <tr>
+            <td>@inspection.Registration</td>
+            <td>@inspection.Make</td>
+            <td>@inspection.Model</td>
+            <td>
+                <form method="put" asp-page-handler="Edit" asp-route-id="@inspection.Id">
+                    <button class="btn btn-warning">Edit</button>
+                </form>
+            </td>
+            <td>
+                <form method="post" asp-page-handler="Delete" asp-route-id="@inspection.Id">
+                    <button class="btn btn-danger">Delete</button>
+                </form>
+            </td>
+        </tr>
+    }
+</table>
+
+
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
