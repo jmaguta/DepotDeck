@@ -20,11 +20,7 @@ public class SeedData
                 return;   // DB has been seeded
             }
 
-
-
             PopulateTestData(dbContext);
-
-
 
         }
 
@@ -34,7 +30,6 @@ public class SeedData
         var inspections = new List<InspectionModel>
         {
             new InspectionModel {
-                Id = 1,
                 Registration = "MW57FRK",
                 Make = "Ford",
                 Model = "FireTruck",
